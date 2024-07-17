@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(240, 216, 187);
+}
+h1{
+    color: rgb(170, 71, 21);
+}
+h2{
+    color: rgb(35, 89, 135);
+}
+h3{
+    color: rgb(161, 2, 2);
+}
+
+.qn{
+    color: black;
+    list-style-type: lower-alpha;
+}
+

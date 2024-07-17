@@ -1,0 +1,15 @@
+Client
+: Chrome
+
+Browser sends request to Chrome
+
+ideally, response code is 200 with this response it re
+
+error code - 500, 404
+
+
+
+Server
+Browser - parses html
+
+Client Side Scripting Javascript is used

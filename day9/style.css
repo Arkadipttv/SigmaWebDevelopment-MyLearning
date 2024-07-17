@@ -1,0 +1,13 @@
+.red{
+    color: red;
+   }
+   
+   .bg-yellow{
+       background-color: yellow;
+   }
+   
+   #firstdiv{
+       /* background-color: red; */
+   }
+
+   /* So, we can see that we use # to communicate with the id and we make use of the full stop. the '.' is used to address classes */

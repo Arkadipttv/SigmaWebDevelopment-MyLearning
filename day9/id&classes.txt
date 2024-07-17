@@ -1,0 +1,25 @@
+ID and Classes
+
+Say for example yu have an aadhaar card.
+
+Now your friend will also have that aadhar card but with different number.
+
+example
+
+1. Amit - 4578671
+2. Rick - 5694677
+
+Both of them are different people and their aadhaar card numbers are different
+
+this is the concept of id.
+
+
+
+now amit and rick go to a shop and amit buys mangoes and rick buys banana, both are yellow coloured so they fall in a class yellow.
+
+Also, both are human beings so they fall under the class Human Being as well. XD!!!
+
+So a person may belong to more than one class.
+But, a person will only have one ID. ID is unique.
+
+Class consists of a group of items that exhibit the same /similar kind of behaviour.

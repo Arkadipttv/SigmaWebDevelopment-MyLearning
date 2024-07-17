@@ -1,0 +1,9 @@
+Today,we are going to study CSS (Cascading Style Sheets)
+
+What is it used for?
+It is used for the purpose of styling webpages. 
+html was not invented to create styled pages but css helps us do that
+
+html: structure of webpages
+css: styling webpages (It has selectors)
+

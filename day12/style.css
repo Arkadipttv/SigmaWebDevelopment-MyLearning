@@ -1,0 +1,20 @@
+body{
+    background-color: antiquewhite;
+}
+h3
+{
+    text-decoration: aliceblue;
+    color: rgb(33, 35, 161);
+}
+ol{
+    color: rgb(158, 0, 0);
+    font-style: italic;
+    font: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h1
+{
+    font: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(177, 99, 9);
+}
